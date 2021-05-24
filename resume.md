@@ -1,7 +1,7 @@
 <span style="float: right">ianchen06@gmail.com<br>(080)7466-1815</span>
 # YingHao (Ian) Chen 
 - 5+ years of experience as a software engineer
-- Main expertise in data engineering and data pipeline design
+- Main expertise in data engineering and data pipeline design with Hadoop ecosystem
 - Strong experience with DevOps best practices
 - Proficient with cloud services and infrastructure as code
 
@@ -12,16 +12,32 @@ B.S. in Electrical and Computer Engineering
 <span style="float: right">*Dec. 2012*</span>
 
 ## Experience
-**LINE Corp, Tokyo, Japan**
-<span style="float: right">*May 2019 &ndash; Present*</span>
 
-- Build ETL pipeline using Python to ingest data from various sources including RDBMS, MongoDB, HDFS, etc into data warehouse
-- Build the largest self-service batch ingestion system in LINE based on Airflow and Kubernetes
+**Woven Planet (TRI-AD), Tokyo, Japan**
+<span style="float: right">*Jan 2021 &ndash; Present*</span>
+
+- Lead the development of Innersource platform in Toyota group
+  - Provide tools and platform for global Toyota group companies and partners to collaborate on software projects, such as VCS(GHE, Gitlab), Jira, CI/CD(Github Actions, Gitlab)
+  - Implemented zero trust network to maintain high security standards while minimizing network inconveniences
+  - Maintain IP segration while enabling collaboration among participating parties
+- Practice strict Infrasture as Code and testability of infrastructure with Terraform and Concourse CI
+- Help users onboard the platform by providing consulting on migration of their development workflow(CI/CD pipeline, code review bots, etc)
+
+keywords: AWS, terraform, Kubernetes, GitHub, Gitlab, Concourse CI
+
+**LINE Corp, Tokyo, Japan**
+<span style="float: right">*May 2019 &ndash; Dec 2020*</span>
+
+- Build the largest self-service batch ingestion system in LINE
+  - Over 250+ jobs running daily on multiple Hadoop clusters
+  - Enable business stakeholders to create data ingestion pipeline in a self-service manner, without writing code
+  - Horizontally scalable and highly stable by using containers and Kubernetes
 - Lead the migration of legacy batch ingestion system from bare-metal to Kubernetes
+  - Removed single point of failure and increased scalability
 - Provide consulting and troubleshooting on batch ingestion pipeline best practices and mysql query tuning
 - Develop web app and microservices with Django, Go, Vue.js
 
-keywords: Kubernetes, Hadoop, Spark, Airflow, ELK, Python, Drone CI, Go, Java, Docker
+keywords: Kubernetes, Hadoop, Hive, Spark, Airflow, ELK, Python, Drone CI, Go, Java, Docker
 
 **Honestbee, Taipei, Taiwan**
 <span style="float: right">*July 2018 &ndash; April 2019*</span>
