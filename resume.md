@@ -16,14 +16,23 @@ B.S. in Electrical and Computer Engineering
 **Woven Planet (TRI-AD), Tokyo, Japan**
 <span style="float: right">*Jan 2021 &ndash; Present*</span>
 
-- Lead the development of Innersource platform in Toyota group
+- Build the software collaboration platform in global Toyota group
+  - Grow the number of users from less than 100 to 4500+
+  - Developed authentication/authorization system for software projects within global Toyota group
+    - API development in Go
+    - Infrastructure as Code (terraform) on AWS
+    - Container native development and deployment on Kubernetes (EKS, helm chart)
+    - DevOps (CI/CD pipeline with GitHub Actions, configuration management, logging dashboard with ELK)
   - Provide tools and platform for global Toyota group companies and partners to collaborate on software projects, such as VCS(GHE, Gitlab), Jira, CI/CD(Github Actions, Gitlab)
-  - Implemented zero trust network to maintain high security standards while minimizing network inconveniences
+  - Improve network performance for inter continental access from global Toyota companies
+    - Provide local region endpoint services globally that increased network through put by 100x to services in Tokyo
+    - Implemented zero trust network to maintain high security standards while minimizing network inconveniences
   - Maintain IP segration while enabling collaboration among participating parties
 - Practice strict Infrasture as Code and testability of infrastructure with Terraform and Concourse CI
 - Help users onboard the platform by providing consulting on migration of their development workflow(CI/CD pipeline, code review bots, etc)
+- Developed many internal tools that improved developer experience
 
-keywords: AWS, terraform, Kubernetes, GitHub, Gitlab, Concourse CI
+keywords: Go, Python, AWS, terraform, Kubernetes, GitHub, Gitlab, Concourse CI
 
 **LINE Corp, Tokyo, Japan**
 <span style="float: right">*May 2019 &ndash; Dec 2020*</span>
