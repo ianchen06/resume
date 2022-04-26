@@ -1,9 +1,11 @@
 <span style="float: right">ianchen06@gmail.com<br>(080)7466-1815</span>
 # YingHao (Ian) Chen 
-- 5+ years of experience as a software engineer
+- 7+ years of experience as a software engineer
 - Main expertise in data engineering and data pipeline design with Hadoop ecosystem
-- Strong experience with DevOps best practices
-- Proficient with cloud services and infrastructure as code
+- Fullstack software development capability deivering dashboards, PoCs and products
+- Strong experience in DevOps best practices and tools (CI/CD, logging, monitoring)
+- Proficient with container native software development (Docker, Kubernetes)
+- Strong experience in cloud and on-prem infrastructure management/development
 
 ## Education
 **Georgia Institute of Technology, Atlanta GA, USA**
