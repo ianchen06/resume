@@ -1,8 +1,7 @@
-<span style="float: right">ianchen06@gmail.com<br>(080)7466-1815</span>
+<span style="float: right">ianchen06@gmail.com<br></span>
 # YingHao (Ian) Chen
 - 7+ years of experience as a software engineer
-- Main expertise in data engineering and data pipeline design with Hadoop ecosystem
-- Fullstack software development capability deivering dashboards, PoCs and products
+- Fullstack software development from PoC to production
 - Strong experience in DevOps best practices and tools (CI/CD, logging, monitoring)
 - Proficient with container native software development (Docker, Kubernetes)
 - Strong experience in cloud and on-prem infrastructure management/development
@@ -15,7 +14,27 @@ B.S. in Electrical and Computer Engineering
 
 ## Experience
 
-### Data Engineering
+**Woven Planet (TRI-AD), Tokyo, Japan**
+<span style="float: right">*Jan 2021 &ndash; Present*</span>
+
+- Build the software collaboration platform in global Toyota group
+  - Grow the number of users from less than 100 to 4500+
+  - Developed authentication/authorization system for software projects within global Toyota group
+    - API development in Go
+    - Infrastructure as Code (terraform) on AWS
+    - Container native development and deployment on Kubernetes (EKS, helm chart)
+    - DevOps (CI/CD pipeline with GitHub Actions, configuration management, logging dashboard with ELK)
+  - Provide tools and platform for global Toyota group companies and partners to collaborate on software projects, such as VCS(GHE, Gitlab), Jira, CI/CD(Github Actions, Gitlab)
+  - Improve network performance for inter continental access from global Toyota companies
+    - Provide local region endpoint services globally that increased network through put by 100x to services in Tokyo
+    - Implemented zero trust network to maintain high security standards while minimizing network inconveniences
+- Practice strict Infrasture as Code and testability of infrastructure with Terraform and Concourse CI
+- Help users onboard the platform by providing consulting on migration of their development workflow(CI/CD pipeline, code review bots, etc)
+- Developed many internal tools that improved developer experience
+
+keywords: Go, Python, AWS, terraform, Kubernetes, GitHub, Gitlab, Concourse CI
+
+<div style="page-break-after: always;"></div>
 
 **LINE Corp, Tokyo, Japan**
 <span style="float: right">*May 2019 &ndash; Dec 2020*</span>
@@ -34,6 +53,18 @@ B.S. in Electrical and Computer Engineering
 
 keywords: Kubernetes, Hadoop, Hive, Spark, Airflow, ELK, Python, Drone CI, Go, Java, Docker
 
+**Honestbee, Taipei, Taiwan**
+<span style="float: right">*July 2018 &ndash; April 2019*</span>
+
+- Develop Golang microservices based on event-sourcing pattern and Kafka
+- Develop CLI app based on kops to allow developers to spin up development Kubernetes clusters.
+- Maintain multi-tenent Kubernetes based development and production infrastructure
+- Build operational visibility by applying a systematic, SLO based approach to monitoring
+- Provision cloud infrastructure using Terraform, AWS, Datadog, etc.
+- Drive the adoption of CI/CD pipelines, help teams to deliver products in a faster and better way
+
+keywords: Kubernetes, AWS, Terraform, Prometheus, Go, Drone CI, Docker
+
 **Largitdata, Taipei, Taiwan**
 <span style="float: right">*April 2016 &ndash; July 2018*</span>
 
@@ -43,9 +74,6 @@ keywords: Kubernetes, Hadoop, Hive, Spark, Airflow, ELK, Python, Drone CI, Go, J
 - Develop web app with Django and React/Redux
 
 keywords: Kubernetes, AWS, Python, Celery, RabbitMQ, Elasticsearch, RethinkDB, Docker
-
-<br />
-<br />
 
 **Institute of Information Industry, Taipei, Taiwan**
 <span style="float: right">*April 2016 &ndash; August 2018*</span>
@@ -59,42 +87,7 @@ keywords: Kubernetes, AWS, Python, Celery, RabbitMQ, Elasticsearch, RethinkDB, D
 
 keywords: Python, ETL, web crawler
 
-### DevOps/SRE
-
-**Woven Planet (TRI-AD), Tokyo, Japan**
-<span style="float: right">*Jan 2021 &ndash; Present*</span>
-
-- Build the software collaboration platform in global Toyota group
-  - Grow the number of users from less than 100 to 4500+
-  - Developed authentication/authorization system for software projects within global Toyota group
-    - API development in Go
-    - Infrastructure as Code (terraform) on AWS
-    - Container native development and deployment on Kubernetes (EKS, helm chart)
-    - DevOps (CI/CD pipeline with GitHub Actions, configuration management, logging dashboard with ELK)
-  - Provide tools and platform for global Toyota group companies and partners to collaborate on software projects, such as VCS(GHE, Gitlab), Jira, CI/CD(Github Actions, Gitlab)
-  - Improve network performance for inter continental access from global Toyota companies
-    - Provide local region endpoint services globally that increased network through put by 100x to services in Tokyo
-    - Implemented zero trust network to maintain high security standards while minimizing network inconveniences
-  - Maintain IP segration while enabling collaboration among participating parties
-- Practice strict Infrasture as Code and testability of infrastructure with Terraform and Concourse CI
-- Help users onboard the platform by providing consulting on migration of their development workflow(CI/CD pipeline, code review bots, etc)
-- Developed many internal tools that improved developer experience
-
-keywords: Go, Python, AWS, terraform, Kubernetes, GitHub, Gitlab, Concourse CI
-
-**Honestbee, Taipei, Taiwan**
-<span style="float: right">*July 2018 &ndash; April 2019*</span>
-
-- Develop Golang microservices based on event-sourcing pattern and Kafka
-- Develop CLI app based on kops to allow developers to spin up development Kubernetes clusters.
-- Maintain multi-tenent Kubernetes based development and production infrastructure
-- Build operational visibility by applying a systematic, SLO based approach to monitoring
-- Provision cloud infrastructure using Terraform, AWS, Datadog, etc.
-- Drive the adoption of CI/CD pipelines, help teams to deliver products in a faster and better way
-
-keywords: Kubernetes, AWS, Terraform, Prometheus, Go, Drone CI, Docker
-
-<br />
+<div style="page-break-after: always;"></div>
 
 **WangYu Digital Technologies, Taipei, Taiwan**
 <span style="float: right">*April 2015 &ndash; April 2016*</span>
